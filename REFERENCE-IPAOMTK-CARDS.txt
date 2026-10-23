@@ -1,0 +1,796 @@
+<section class="liquid-panel rounded-3xl p-6 md:p-8 relative mb-6 md:mb-8">
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-6 mb-6 md:mb-8">
+                            <a href="https://ipaomtk.com/framed-3/" class="ipaomtk-app-card group">
+    <div class="ipaomtk-card-media">
+        <div class="ipaomtk-card-icon-wrap">
+        <img src="https://ipaomtk.com/wp-content/uploads/2026/10/FRAMED-IPA-v1.31-Unlocked-For-iOS-featured-image-150x150.jpg" loading="lazy" decoding="async" alt="FRAMED" class="ipaomtk-card-icon liquid-image">
+        <div class="absolute -top-2 -right-2 liquid-platform-icon ios text-white">
+    <svg class="w-3 h-3" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M18.71,19.5C17.88,20.74 17,21.95 15.66,21.97C14.32,22 13.89,21.18 12.37,21.18C10.84,21.18 10.37,21.95 9.1,22C7.79,22.05 6.8,20.68 5.96,19.47C4.25,17 2.94,12.45 4.7,9.39C5.57,7.87 7.13,6.91 8.82,6.88C10.1,6.86 11.32,7.75 12.11,7.75C12.89,7.75 14.37,6.68 15.92,6.84C16.57,6.87 18.39,7.1 19.56,8.82C19.47,8.88 17.39,10.1 17.41,12.63C17.44,15.65 20.06,16.66 20.09,16.67C20.06,16.74 19.67,18.11 18.71,19.5ZM13,3.5C13.73,2.67 14.94,2.04 15.94,2C16.07,3.17 15.6,4.35 14.9,5.19C14.21,6.04 13.07,6.7 11.95,6.61C11.8,5.46 12.36,4.26 13,3.5Z"></path>
+    </svg>
+</div>                    <div class="absolute -bottom-2 left-1/2 transform -translate-x-1/2">
+                <span class="liquid-mod-badge">MOD</span>
+            </div>
+                </div>
+    </div>
+    <div class="ipaomtk-card-body">
+        <div class="ipaomtk-card-topline">
+            <h3 class="ipaomtk-card-title">
+                FRAMED            </h3>
+                            <span class="ipaomtk-status-pill">New</span>
+                    </div>
+        <div class="ipaomtk-card-meta">
+            <span>Adventure</span>
+            <span>367.3 MB</span>
+        </div>
+        <div class="ipaomtk-card-detail">
+            <span>v2.00</span>
+                            <span class="ipaomtk-card-mod">
+                    <svg viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                        <path d="M10 2a6 6 0 00-6 6v2.15c0 .41-.17.81-.47 1.1L2.5 12.3A1 1 0 003.2 14h13.6a1 1 0 00.7-1.7l-1.03-1.05a1.56 1.56 0 01-.47-1.1V8a6 6 0 00-6-6zm0 16a3 3 0 002.83-2H7.17A3 3 0 0010 18z"></path>
+                    </svg>
+                    emulator                </span>
+                    </div>
+    </div>
+</a>
+<a href="https://ipaomtk.com/gta-v-ipa/" class="ipaomtk-app-card group">
+    <div class="ipaomtk-card-media">
+        <div class="ipaomtk-card-icon-wrap">
+        <img src="https://ipaomtk.com/wp-content/uploads/2026/10/Neon-Los-Santos-gtav-150x150.png" loading="lazy" decoding="async" alt="GTA V IPA" class="ipaomtk-card-icon liquid-image">
+        <div class="absolute -top-2 -right-2 liquid-platform-icon ios text-white">
+    <svg class="w-3 h-3" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M18.71,19.5C17.88,20.74 17,21.95 15.66,21.97C14.32,22 13.89,21.18 12.37,21.18C10.84,21.18 10.37,21.95 9.1,22C7.79,22.05 6.8,20.68 5.96,19.47C4.25,17 2.94,12.45 4.7,9.39C5.57,7.87 7.13,6.91 8.82,6.88C10.1,6.86 11.32,7.75 12.11,7.75C12.89,7.75 14.37,6.68 15.92,6.84C16.57,6.87 18.39,7.1 19.56,8.82C19.47,8.88 17.39,10.1 17.41,12.63C17.44,15.65 20.06,16.66 20.09,16.67C20.06,16.74 19.67,18.11 18.71,19.5ZM13,3.5C13.73,2.67 14.94,2.04 15.94,2C16.07,3.17 15.6,4.35 14.9,5.19C14.21,6.04 13.07,6.7 11.95,6.61C11.8,5.46 12.36,4.26 13,3.5Z"></path>
+    </svg>
+</div>                    <div class="absolute -bottom-2 left-1/2 transform -translate-x-1/2">
+                <span class="liquid-mod-badge">MOD</span>
+            </div>
+                </div>
+    </div>
+    <div class="ipaomtk-card-body">
+        <div class="ipaomtk-card-topline">
+            <h3 class="ipaomtk-card-title">
+                GTA V IPA            </h3>
+                            <span class="ipaomtk-status-pill">New</span>
+                    </div>
+        <div class="ipaomtk-card-meta">
+            <span>Action</span>
+            <span>22 GB</span>
+        </div>
+        <div class="ipaomtk-card-detail">
+            <span>v1.4</span>
+                            <span class="ipaomtk-card-mod">
+                    <svg viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                        <path d="M10 2a6 6 0 00-6 6v2.15c0 .41-.17.81-.47 1.1L2.5 12.3A1 1 0 003.2 14h13.6a1 1 0 00.7-1.7l-1.03-1.05a1.56 1.56 0 01-.47-1.1V8a6 6 0 00-6-6zm0 16a3 3 0 002.83-2H7.17A3 3 0 0010 18z"></path>
+                    </svg>
+                    GTA V Port                </span>
+                    </div>
+    </div>
+</a>
+<a href="https://ipaomtk.com/formula-ride/" class="ipaomtk-app-card group">
+    <div class="ipaomtk-card-media">
+        <div class="ipaomtk-card-icon-wrap">
+        <img src="https://ipaomtk.com/wp-content/uploads/2026/10/Formula-Ride-IPA-v1.0.5-Unlocked-For-iOS-featured-image-150x150.jpg" loading="lazy" decoding="async" alt="Formula Ride" class="ipaomtk-card-icon liquid-image">
+        <div class="absolute -top-2 -right-2 liquid-platform-icon ios text-white">
+    <svg class="w-3 h-3" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M18.71,19.5C17.88,20.74 17,21.95 15.66,21.97C14.32,22 13.89,21.18 12.37,21.18C10.84,21.18 10.37,21.95 9.1,22C7.79,22.05 6.8,20.68 5.96,19.47C4.25,17 2.94,12.45 4.7,9.39C5.57,7.87 7.13,6.91 8.82,6.88C10.1,6.86 11.32,7.75 12.11,7.75C12.89,7.75 14.37,6.68 15.92,6.84C16.57,6.87 18.39,7.1 19.56,8.82C19.47,8.88 17.39,10.1 17.41,12.63C17.44,15.65 20.06,16.66 20.09,16.67C20.06,16.74 19.67,18.11 18.71,19.5ZM13,3.5C13.73,2.67 14.94,2.04 15.94,2C16.07,3.17 15.6,4.35 14.9,5.19C14.21,6.04 13.07,6.7 11.95,6.61C11.8,5.46 12.36,4.26 13,3.5Z"></path>
+    </svg>
+</div>                    <div class="absolute -bottom-2 left-1/2 transform -translate-x-1/2">
+                <span class="liquid-mod-badge">MOD</span>
+            </div>
+                </div>
+    </div>
+    <div class="ipaomtk-card-body">
+        <div class="ipaomtk-card-topline">
+            <h3 class="ipaomtk-card-title">
+                Formula Ride            </h3>
+                            <span class="ipaomtk-status-pill">New</span>
+                    </div>
+        <div class="ipaomtk-card-meta">
+            <span>Racing</span>
+            <span>403.5 MB</span>
+        </div>
+        <div class="ipaomtk-card-detail">
+            <span>v1.0.5</span>
+                            <span class="ipaomtk-card-mod">
+                    <svg viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                        <path d="M10 2a6 6 0 00-6 6v2.15c0 .41-.17.81-.47 1.1L2.5 12.3A1 1 0 003.2 14h13.6a1 1 0 00.7-1.7l-1.03-1.05a1.56 1.56 0 01-.47-1.1V8a6 6 0 00-6-6zm0 16a3 3 0 002.83-2H7.17A3 3 0 0010 18z"></path>
+                    </svg>
+                    No Ads                </span>
+                    </div>
+    </div>
+</a>
+<a href="https://ipaomtk.com/picoboom-color-hunt-imposter/" class="ipaomtk-app-card group">
+    <div class="ipaomtk-card-media">
+        <div class="ipaomtk-card-icon-wrap">
+        <img src="https://ipaomtk.com/wp-content/uploads/2026/10/Picoboom-Color-Hunt-038-Imposter-IPA-v1.0.55-Unlocked-For-iOS-featured-image-150x150.jpg" loading="lazy" decoding="async" alt="Picoboom Color Hunt &amp; Imposter" class="ipaomtk-card-icon liquid-image">
+        <div class="absolute -top-2 -right-2 liquid-platform-icon ios text-white">
+    <svg class="w-3 h-3" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M18.71,19.5C17.88,20.74 17,21.95 15.66,21.97C14.32,22 13.89,21.18 12.37,21.18C10.84,21.18 10.37,21.95 9.1,22C7.79,22.05 6.8,20.68 5.96,19.47C4.25,17 2.94,12.45 4.7,9.39C5.57,7.87 7.13,6.91 8.82,6.88C10.1,6.86 11.32,7.75 12.11,7.75C12.89,7.75 14.37,6.68 15.92,6.84C16.57,6.87 18.39,7.1 19.56,8.82C19.47,8.88 17.39,10.1 17.41,12.63C17.44,15.65 20.06,16.66 20.09,16.67C20.06,16.74 19.67,18.11 18.71,19.5ZM13,3.5C13.73,2.67 14.94,2.04 15.94,2C16.07,3.17 15.6,4.35 14.9,5.19C14.21,6.04 13.07,6.7 11.95,6.61C11.8,5.46 12.36,4.26 13,3.5Z"></path>
+    </svg>
+</div>                    <div class="absolute -bottom-2 left-1/2 transform -translate-x-1/2">
+                <span class="liquid-mod-badge">MOD</span>
+            </div>
+                </div>
+    </div>
+    <div class="ipaomtk-card-body">
+        <div class="ipaomtk-card-topline">
+            <h3 class="ipaomtk-card-title">
+                Picoboom Color Hunt &amp; Imposter            </h3>
+                            <span class="ipaomtk-status-pill">New</span>
+                    </div>
+        <div class="ipaomtk-card-meta">
+            <span>Entertainment</span>
+            <span>87.75 MB</span>
+        </div>
+        <div class="ipaomtk-card-detail">
+            <span>v1.0.55</span>
+                            <span class="ipaomtk-card-mod">
+                    <svg viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                        <path d="M10 2a6 6 0 00-6 6v2.15c0 .41-.17.81-.47 1.1L2.5 12.3A1 1 0 003.2 14h13.6a1 1 0 00.7-1.7l-1.03-1.05a1.56 1.56 0 01-.47-1.1V8a6 6 0 00-6-6zm0 16a3 3 0 002.83-2H7.17A3 3 0 0010 18z"></path>
+                    </svg>
+                    emulator                </span>
+                    </div>
+    </div>
+</a>
+<a href="https://ipaomtk.com/muguet/" class="ipaomtk-app-card group">
+    <div class="ipaomtk-card-media">
+        <div class="ipaomtk-card-icon-wrap">
+        <img src="https://ipaomtk.com/wp-content/uploads/2026/10/muguet-ipaomtk-150x150.png" loading="lazy" decoding="async" alt="muguet IPA" class="ipaomtk-card-icon liquid-image">
+        <div class="absolute -top-2 -right-2 liquid-platform-icon ios text-white">
+    <svg class="w-3 h-3" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M18.71,19.5C17.88,20.74 17,21.95 15.66,21.97C14.32,22 13.89,21.18 12.37,21.18C10.84,21.18 10.37,21.95 9.1,22C7.79,22.05 6.8,20.68 5.96,19.47C4.25,17 2.94,12.45 4.7,9.39C5.57,7.87 7.13,6.91 8.82,6.88C10.1,6.86 11.32,7.75 12.11,7.75C12.89,7.75 14.37,6.68 15.92,6.84C16.57,6.87 18.39,7.1 19.56,8.82C19.47,8.88 17.39,10.1 17.41,12.63C17.44,15.65 20.06,16.66 20.09,16.67C20.06,16.74 19.67,18.11 18.71,19.5ZM13,3.5C13.73,2.67 14.94,2.04 15.94,2C16.07,3.17 15.6,4.35 14.9,5.19C14.21,6.04 13.07,6.7 11.95,6.61C11.8,5.46 12.36,4.26 13,3.5Z"></path>
+    </svg>
+</div>                    <div class="absolute -bottom-2 left-1/2 transform -translate-x-1/2">
+                <span class="liquid-mod-badge">MOD</span>
+            </div>
+                </div>
+    </div>
+    <div class="ipaomtk-card-body">
+        <div class="ipaomtk-card-topline">
+            <h3 class="ipaomtk-card-title">
+                muguet IPA            </h3>
+                            <span class="ipaomtk-status-pill">Updated</span>
+                    </div>
+        <div class="ipaomtk-card-meta">
+            <span>Action</span>
+            <span>73 MB</span>
+        </div>
+        <div class="ipaomtk-card-detail">
+            <span>v0.1</span>
+                            <span class="ipaomtk-card-mod">
+                    <svg viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                        <path d="M10 2a6 6 0 00-6 6v2.15c0 .41-.17.81-.47 1.1L2.5 12.3A1 1 0 003.2 14h13.6a1 1 0 00.7-1.7l-1.03-1.05a1.56 1.56 0 01-.47-1.1V8a6 6 0 00-6-6zm0 16a3 3 0 002.83-2H7.17A3 3 0 0010 18z"></path>
+                    </svg>
+                    GTA file                </span>
+                    </div>
+    </div>
+</a>
+<a href="https://ipaomtk.com/ufc-manager/" class="ipaomtk-app-card group">
+    <div class="ipaomtk-card-media">
+        <div class="ipaomtk-card-icon-wrap">
+        <img src="https://ipaomtk.com/wp-content/uploads/2026/10/UFC-MANAGER-IPA-v0.0.6-Unlocked-For-iOS-featured-image-150x150.jpg" loading="lazy" decoding="async" alt="UFC: MANAGER" class="ipaomtk-card-icon liquid-image">
+        <div class="absolute -top-2 -right-2 liquid-platform-icon ios text-white">
+    <svg class="w-3 h-3" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M18.71,19.5C17.88,20.74 17,21.95 15.66,21.97C14.32,22 13.89,21.18 12.37,21.18C10.84,21.18 10.37,21.95 9.1,22C7.79,22.05 6.8,20.68 5.96,19.47C4.25,17 2.94,12.45 4.7,9.39C5.57,7.87 7.13,6.91 8.82,6.88C10.1,6.86 11.32,7.75 12.11,7.75C12.89,7.75 14.37,6.68 15.92,6.84C16.57,6.87 18.39,7.1 19.56,8.82C19.47,8.88 17.39,10.1 17.41,12.63C17.44,15.65 20.06,16.66 20.09,16.67C20.06,16.74 19.67,18.11 18.71,19.5ZM13,3.5C13.73,2.67 14.94,2.04 15.94,2C16.07,3.17 15.6,4.35 14.9,5.19C14.21,6.04 13.07,6.7 11.95,6.61C11.8,5.46 12.36,4.26 13,3.5Z"></path>
+    </svg>
+</div>                    <div class="absolute -bottom-2 left-1/2 transform -translate-x-1/2">
+                <span class="liquid-mod-badge">MOD</span>
+            </div>
+                </div>
+    </div>
+    <div class="ipaomtk-card-body">
+        <div class="ipaomtk-card-topline">
+            <h3 class="ipaomtk-card-title">
+                UFC: MANAGER            </h3>
+                            <span class="ipaomtk-status-pill">Updated</span>
+                    </div>
+        <div class="ipaomtk-card-meta">
+            <span>Simulation</span>
+            <span>523.55 MB</span>
+        </div>
+        <div class="ipaomtk-card-detail">
+            <span>v0.0.6</span>
+                            <span class="ipaomtk-card-mod">
+                    <svg viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                        <path d="M10 2a6 6 0 00-6 6v2.15c0 .41-.17.81-.47 1.1L2.5 12.3A1 1 0 003.2 14h13.6a1 1 0 00.7-1.7l-1.03-1.05a1.56 1.56 0 01-.47-1.1V8a6 6 0 00-6-6zm0 16a3 3 0 002.83-2H7.17A3 3 0 0010 18z"></path>
+                    </svg>
+                    Unlocked                </span>
+                    </div>
+    </div>
+</a>
+<a href="https://ipaomtk.com/superfan-social-music/" class="ipaomtk-app-card group">
+    <div class="ipaomtk-card-media">
+        <div class="ipaomtk-card-icon-wrap">
+        <img src="https://ipaomtk.com/wp-content/uploads/2026/10/Superfan-social-music-IPA-v1.27.61-Unlocked-For-iOS-featured-image-150x150.jpg" loading="lazy" decoding="async" alt="Superfan: social music" class="ipaomtk-card-icon liquid-image">
+        <div class="absolute -top-2 -right-2 liquid-platform-icon ios text-white">
+    <svg class="w-3 h-3" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M18.71,19.5C17.88,20.74 17,21.95 15.66,21.97C14.32,22 13.89,21.18 12.37,21.18C10.84,21.18 10.37,21.95 9.1,22C7.79,22.05 6.8,20.68 5.96,19.47C4.25,17 2.94,12.45 4.7,9.39C5.57,7.87 7.13,6.91 8.82,6.88C10.1,6.86 11.32,7.75 12.11,7.75C12.89,7.75 14.37,6.68 15.92,6.84C16.57,6.87 18.39,7.1 19.56,8.82C19.47,8.88 17.39,10.1 17.41,12.63C17.44,15.65 20.06,16.66 20.09,16.67C20.06,16.74 19.67,18.11 18.71,19.5ZM13,3.5C13.73,2.67 14.94,2.04 15.94,2C16.07,3.17 15.6,4.35 14.9,5.19C14.21,6.04 13.07,6.7 11.95,6.61C11.8,5.46 12.36,4.26 13,3.5Z"></path>
+    </svg>
+</div>                    <div class="absolute -bottom-2 left-1/2 transform -translate-x-1/2">
+                <span class="liquid-mod-badge">MOD</span>
+            </div>
+                </div>
+    </div>
+    <div class="ipaomtk-card-body">
+        <div class="ipaomtk-card-topline">
+            <h3 class="ipaomtk-card-title">
+                Superfan: social music            </h3>
+                            <span class="ipaomtk-status-pill">Updated</span>
+                    </div>
+        <div class="ipaomtk-card-meta">
+            <span>Music Game</span>
+            <span>78.5 MB</span>
+        </div>
+        <div class="ipaomtk-card-detail">
+            <span>v1.27.66</span>
+                            <span class="ipaomtk-card-mod">
+                    <svg viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                        <path d="M10 2a6 6 0 00-6 6v2.15c0 .41-.17.81-.47 1.1L2.5 12.3A1 1 0 003.2 14h13.6a1 1 0 00.7-1.7l-1.03-1.05a1.56 1.56 0 01-.47-1.1V8a6 6 0 00-6-6zm0 16a3 3 0 002.83-2H7.17A3 3 0 0010 18z"></path>
+                    </svg>
+                    Unlocked                </span>
+                    </div>
+    </div>
+</a>
+<a href="https://ipaomtk.com/food-gang/" class="ipaomtk-app-card group">
+    <div class="ipaomtk-card-media">
+        <div class="ipaomtk-card-icon-wrap">
+        <img src="https://ipaomtk.com/wp-content/uploads/2026/10/Food-Gang-IPA-v2.2.4-Unlocked-For-iOS-featured-image-150x150.jpg" loading="lazy" decoding="async" alt="Food Gang" class="ipaomtk-card-icon liquid-image">
+        <div class="absolute -top-2 -right-2 liquid-platform-icon ios text-white">
+    <svg class="w-3 h-3" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M18.71,19.5C17.88,20.74 17,21.95 15.66,21.97C14.32,22 13.89,21.18 12.37,21.18C10.84,21.18 10.37,21.95 9.1,22C7.79,22.05 6.8,20.68 5.96,19.47C4.25,17 2.94,12.45 4.7,9.39C5.57,7.87 7.13,6.91 8.82,6.88C10.1,6.86 11.32,7.75 12.11,7.75C12.89,7.75 14.37,6.68 15.92,6.84C16.57,6.87 18.39,7.1 19.56,8.82C19.47,8.88 17.39,10.1 17.41,12.63C17.44,15.65 20.06,16.66 20.09,16.67C20.06,16.74 19.67,18.11 18.71,19.5ZM13,3.5C13.73,2.67 14.94,2.04 15.94,2C16.07,3.17 15.6,4.35 14.9,5.19C14.21,6.04 13.07,6.7 11.95,6.61C11.8,5.46 12.36,4.26 13,3.5Z"></path>
+    </svg>
+</div>                    <div class="absolute -bottom-2 left-1/2 transform -translate-x-1/2">
+                <span class="liquid-mod-badge">MOD</span>
+            </div>
+                </div>
+    </div>
+    <div class="ipaomtk-card-body">
+        <div class="ipaomtk-card-topline">
+            <h3 class="ipaomtk-card-title">
+                Food Gang            </h3>
+                            <span class="ipaomtk-status-pill">Updated</span>
+                    </div>
+        <div class="ipaomtk-card-meta">
+            <span>Action</span>
+            <span>267.83 MB</span>
+        </div>
+        <div class="ipaomtk-card-detail">
+            <span>v2.2.4</span>
+                            <span class="ipaomtk-card-mod">
+                    <svg viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                        <path d="M10 2a6 6 0 00-6 6v2.15c0 .41-.17.81-.47 1.1L2.5 12.3A1 1 0 003.2 14h13.6a1 1 0 00.7-1.7l-1.03-1.05a1.56 1.56 0 01-.47-1.1V8a6 6 0 00-6-6zm0 16a3 3 0 002.83-2H7.17A3 3 0 0010 18z"></path>
+                    </svg>
+                    Unlocked                </span>
+                    </div>
+    </div>
+</a>
+<a href="https://ipaomtk.com/enroad-drive-tracker/" class="ipaomtk-app-card group">
+    <div class="ipaomtk-card-media">
+        <div class="ipaomtk-card-icon-wrap">
+        <img src="https://ipaomtk.com/wp-content/uploads/2026/10/Enroad-–-Drive-Tracker-IPA-v4.4-Unlocked-For-iOS-featured-image-150x150.jpg" loading="lazy" decoding="async" alt="Enroad – Drive Tracker" class="ipaomtk-card-icon liquid-image">
+        <div class="absolute -top-2 -right-2 liquid-platform-icon ios text-white">
+    <svg class="w-3 h-3" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M18.71,19.5C17.88,20.74 17,21.95 15.66,21.97C14.32,22 13.89,21.18 12.37,21.18C10.84,21.18 10.37,21.95 9.1,22C7.79,22.05 6.8,20.68 5.96,19.47C4.25,17 2.94,12.45 4.7,9.39C5.57,7.87 7.13,6.91 8.82,6.88C10.1,6.86 11.32,7.75 12.11,7.75C12.89,7.75 14.37,6.68 15.92,6.84C16.57,6.87 18.39,7.1 19.56,8.82C19.47,8.88 17.39,10.1 17.41,12.63C17.44,15.65 20.06,16.66 20.09,16.67C20.06,16.74 19.67,18.11 18.71,19.5ZM13,3.5C13.73,2.67 14.94,2.04 15.94,2C16.07,3.17 15.6,4.35 14.9,5.19C14.21,6.04 13.07,6.7 11.95,6.61C11.8,5.46 12.36,4.26 13,3.5Z"></path>
+    </svg>
+</div>                    <div class="absolute -bottom-2 left-1/2 transform -translate-x-1/2">
+                <span class="liquid-mod-badge">MOD</span>
+            </div>
+                </div>
+    </div>
+    <div class="ipaomtk-card-body">
+        <div class="ipaomtk-card-topline">
+            <h3 class="ipaomtk-card-title">
+                Enroad – Drive Tracker            </h3>
+                            <span class="ipaomtk-status-pill">Updated</span>
+                    </div>
+        <div class="ipaomtk-card-meta">
+            <span>Entertainment</span>
+            <span>190.22 MB</span>
+        </div>
+        <div class="ipaomtk-card-detail">
+            <span>v4.4</span>
+                            <span class="ipaomtk-card-mod">
+                    <svg viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                        <path d="M10 2a6 6 0 00-6 6v2.15c0 .41-.17.81-.47 1.1L2.5 12.3A1 1 0 003.2 14h13.6a1 1 0 00.7-1.7l-1.03-1.05a1.56 1.56 0 01-.47-1.1V8a6 6 0 00-6-6zm0 16a3 3 0 002.83-2H7.17A3 3 0 0010 18z"></path>
+                    </svg>
+                    Unlocked                </span>
+                    </div>
+    </div>
+</a>
+<a href="https://ipaomtk.com/codmunity-warzone-mw4-meta/" class="ipaomtk-app-card group">
+    <div class="ipaomtk-card-media">
+        <div class="ipaomtk-card-icon-wrap">
+        <img src="https://ipaomtk.com/wp-content/uploads/2026/10/CODMunity-Warzone-038-MW4-Meta-IPA-v9.6-Unlocked-For-iOS-featured-image-150x150.jpg" loading="lazy" decoding="async" alt="CODMunity: Warzone &amp; MW4 Meta" class="ipaomtk-card-icon liquid-image">
+        <div class="absolute -top-2 -right-2 liquid-platform-icon ios text-white">
+    <svg class="w-3 h-3" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M18.71,19.5C17.88,20.74 17,21.95 15.66,21.97C14.32,22 13.89,21.18 12.37,21.18C10.84,21.18 10.37,21.95 9.1,22C7.79,22.05 6.8,20.68 5.96,19.47C4.25,17 2.94,12.45 4.7,9.39C5.57,7.87 7.13,6.91 8.82,6.88C10.1,6.86 11.32,7.75 12.11,7.75C12.89,7.75 14.37,6.68 15.92,6.84C16.57,6.87 18.39,7.1 19.56,8.82C19.47,8.88 17.39,10.1 17.41,12.63C17.44,15.65 20.06,16.66 20.09,16.67C20.06,16.74 19.67,18.11 18.71,19.5ZM13,3.5C13.73,2.67 14.94,2.04 15.94,2C16.07,3.17 15.6,4.35 14.9,5.19C14.21,6.04 13.07,6.7 11.95,6.61C11.8,5.46 12.36,4.26 13,3.5Z"></path>
+    </svg>
+</div>                    <div class="absolute -bottom-2 left-1/2 transform -translate-x-1/2">
+                <span class="liquid-mod-badge">MOD</span>
+            </div>
+                </div>
+    </div>
+    <div class="ipaomtk-card-body">
+        <div class="ipaomtk-card-topline">
+            <h3 class="ipaomtk-card-title">
+                CODMunity: Warzone &amp; MW4 Meta            </h3>
+                            <span class="ipaomtk-status-pill">Updated</span>
+                    </div>
+        <div class="ipaomtk-card-meta">
+            <span>Entertainment</span>
+            <span>112.03 MB</span>
+        </div>
+        <div class="ipaomtk-card-detail">
+            <span>v12.288</span>
+                            <span class="ipaomtk-card-mod">
+                    <svg viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                        <path d="M10 2a6 6 0 00-6 6v2.15c0 .41-.17.81-.47 1.1L2.5 12.3A1 1 0 003.2 14h13.6a1 1 0 00.7-1.7l-1.03-1.05a1.56 1.56 0 01-.47-1.1V8a6 6 0 00-6-6zm0 16a3 3 0 002.83-2H7.17A3 3 0 0010 18z"></path>
+                    </svg>
+                    Unlocked                </span>
+                    </div>
+    </div>
+</a>
+<a href="https://ipaomtk.com/battletask-gamified-to-do-rpg/" class="ipaomtk-app-card group">
+    <div class="ipaomtk-card-media">
+        <div class="ipaomtk-card-icon-wrap">
+        <img src="https://ipaomtk.com/wp-content/uploads/2026/10/BattleTask-Gamified-To-Do-RPG-IPA-v4.0.0-Unlocked-For-iOS-featured-image-150x150.jpg" loading="lazy" decoding="async" alt="BattleTask: Gamified To-Do RPG" class="ipaomtk-card-icon liquid-image">
+        <div class="absolute -top-2 -right-2 liquid-platform-icon ios text-white">
+    <svg class="w-3 h-3" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M18.71,19.5C17.88,20.74 17,21.95 15.66,21.97C14.32,22 13.89,21.18 12.37,21.18C10.84,21.18 10.37,21.95 9.1,22C7.79,22.05 6.8,20.68 5.96,19.47C4.25,17 2.94,12.45 4.7,9.39C5.57,7.87 7.13,6.91 8.82,6.88C10.1,6.86 11.32,7.75 12.11,7.75C12.89,7.75 14.37,6.68 15.92,6.84C16.57,6.87 18.39,7.1 19.56,8.82C19.47,8.88 17.39,10.1 17.41,12.63C17.44,15.65 20.06,16.66 20.09,16.67C20.06,16.74 19.67,18.11 18.71,19.5ZM13,3.5C13.73,2.67 14.94,2.04 15.94,2C16.07,3.17 15.6,4.35 14.9,5.19C14.21,6.04 13.07,6.7 11.95,6.61C11.8,5.46 12.36,4.26 13,3.5Z"></path>
+    </svg>
+</div>                    <div class="absolute -bottom-2 left-1/2 transform -translate-x-1/2">
+                <span class="liquid-mod-badge">MOD</span>
+            </div>
+                </div>
+    </div>
+    <div class="ipaomtk-card-body">
+        <div class="ipaomtk-card-topline">
+            <h3 class="ipaomtk-card-title">
+                BattleTask: Gamified To-Do RPG            </h3>
+                            <span class="ipaomtk-status-pill">Updated</span>
+                    </div>
+        <div class="ipaomtk-card-meta">
+            <span>Casual</span>
+            <span>77.08 MB</span>
+        </div>
+        <div class="ipaomtk-card-detail">
+            <span>v4.0.0</span>
+                            <span class="ipaomtk-card-mod">
+                    <svg viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                        <path d="M10 2a6 6 0 00-6 6v2.15c0 .41-.17.81-.47 1.1L2.5 12.3A1 1 0 003.2 14h13.6a1 1 0 00.7-1.7l-1.03-1.05a1.56 1.56 0 01-.47-1.1V8a6 6 0 00-6-6zm0 16a3 3 0 002.83-2H7.17A3 3 0 0010 18z"></path>
+                    </svg>
+                    Unlocked                </span>
+                    </div>
+    </div>
+</a>
+<a href="https://ipaomtk.com/auto-drill-galaxy/" class="ipaomtk-app-card group">
+    <div class="ipaomtk-card-media">
+        <div class="ipaomtk-card-icon-wrap">
+        <img src="https://ipaomtk.com/wp-content/uploads/2026/10/Auto-Drill-Galaxy-IPA-v20-Unlocked-For-iOS-featured-image-150x150.jpg" loading="lazy" decoding="async" alt="Auto Drill: Galaxy" class="ipaomtk-card-icon liquid-image">
+        <div class="absolute -top-2 -right-2 liquid-platform-icon ios text-white">
+    <svg class="w-3 h-3" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M18.71,19.5C17.88,20.74 17,21.95 15.66,21.97C14.32,22 13.89,21.18 12.37,21.18C10.84,21.18 10.37,21.95 9.1,22C7.79,22.05 6.8,20.68 5.96,19.47C4.25,17 2.94,12.45 4.7,9.39C5.57,7.87 7.13,6.91 8.82,6.88C10.1,6.86 11.32,7.75 12.11,7.75C12.89,7.75 14.37,6.68 15.92,6.84C16.57,6.87 18.39,7.1 19.56,8.82C19.47,8.88 17.39,10.1 17.41,12.63C17.44,15.65 20.06,16.66 20.09,16.67C20.06,16.74 19.67,18.11 18.71,19.5ZM13,3.5C13.73,2.67 14.94,2.04 15.94,2C16.07,3.17 15.6,4.35 14.9,5.19C14.21,6.04 13.07,6.7 11.95,6.61C11.8,5.46 12.36,4.26 13,3.5Z"></path>
+    </svg>
+</div>                    <div class="absolute -bottom-2 left-1/2 transform -translate-x-1/2">
+                <span class="liquid-mod-badge">MOD</span>
+            </div>
+                </div>
+    </div>
+    <div class="ipaomtk-card-body">
+        <div class="ipaomtk-card-topline">
+            <h3 class="ipaomtk-card-title">
+                Auto Drill: Galaxy            </h3>
+                            <span class="ipaomtk-status-pill">Updated</span>
+                    </div>
+        <div class="ipaomtk-card-meta">
+            <span>Simulation</span>
+            <span>265.45 MB</span>
+        </div>
+        <div class="ipaomtk-card-detail">
+            <span>v20</span>
+                            <span class="ipaomtk-card-mod">
+                    <svg viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                        <path d="M10 2a6 6 0 00-6 6v2.15c0 .41-.17.81-.47 1.1L2.5 12.3A1 1 0 003.2 14h13.6a1 1 0 00.7-1.7l-1.03-1.05a1.56 1.56 0 01-.47-1.1V8a6 6 0 00-6-6zm0 16a3 3 0 002.83-2H7.17A3 3 0 0010 18z"></path>
+                    </svg>
+                    Unlimited Currencies                </span>
+                    </div>
+    </div>
+</a>
+<a href="https://ipaomtk.com/heroics%ef%bc%8dfantasy-fable-idle-rpg/" class="ipaomtk-app-card group">
+    <div class="ipaomtk-card-media">
+        <div class="ipaomtk-card-icon-wrap">
+        <img src="https://ipaomtk.com/wp-content/uploads/2026/10/Heroics－Fantasy-Fable-Idle-RPG-IPA-v4.7.14-Unlocked-For-iOS-featured-image-150x150.jpg" loading="lazy" decoding="async" alt="Heroics－Fantasy Fable Idle RPG" class="ipaomtk-card-icon liquid-image">
+        <div class="absolute -top-2 -right-2 liquid-platform-icon ios text-white">
+    <svg class="w-3 h-3" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M18.71,19.5C17.88,20.74 17,21.95 15.66,21.97C14.32,22 13.89,21.18 12.37,21.18C10.84,21.18 10.37,21.95 9.1,22C7.79,22.05 6.8,20.68 5.96,19.47C4.25,17 2.94,12.45 4.7,9.39C5.57,7.87 7.13,6.91 8.82,6.88C10.1,6.86 11.32,7.75 12.11,7.75C12.89,7.75 14.37,6.68 15.92,6.84C16.57,6.87 18.39,7.1 19.56,8.82C19.47,8.88 17.39,10.1 17.41,12.63C17.44,15.65 20.06,16.66 20.09,16.67C20.06,16.74 19.67,18.11 18.71,19.5ZM13,3.5C13.73,2.67 14.94,2.04 15.94,2C16.07,3.17 15.6,4.35 14.9,5.19C14.21,6.04 13.07,6.7 11.95,6.61C11.8,5.46 12.36,4.26 13,3.5Z"></path>
+    </svg>
+</div>                    <div class="absolute -bottom-2 left-1/2 transform -translate-x-1/2">
+                <span class="liquid-mod-badge">MOD</span>
+            </div>
+                </div>
+    </div>
+    <div class="ipaomtk-card-body">
+        <div class="ipaomtk-card-topline">
+            <h3 class="ipaomtk-card-title">
+                Heroics－Fantasy Fable Idle RPG            </h3>
+                            <span class="ipaomtk-status-pill">Updated</span>
+                    </div>
+        <div class="ipaomtk-card-meta">
+            <span>Casual</span>
+            <span>343.2 MB</span>
+        </div>
+        <div class="ipaomtk-card-detail">
+            <span>v4.7.14</span>
+                            <span class="ipaomtk-card-mod">
+                    <svg viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                        <path d="M10 2a6 6 0 00-6 6v2.15c0 .41-.17.81-.47 1.1L2.5 12.3A1 1 0 003.2 14h13.6a1 1 0 00.7-1.7l-1.03-1.05a1.56 1.56 0 01-.47-1.1V8a6 6 0 00-6-6zm0 16a3 3 0 002.83-2H7.17A3 3 0 0010 18z"></path>
+                    </svg>
+                    God Mode                </span>
+                    </div>
+    </div>
+</a>
+<a href="https://ipaomtk.com/narrow-front-ww2-strategy/" class="ipaomtk-app-card group">
+    <div class="ipaomtk-card-media">
+        <div class="ipaomtk-card-icon-wrap">
+        <img src="https://ipaomtk.com/wp-content/uploads/2026/10/Narrow-Front-WW2-Strategy-IPA-v1.3.0-Unlocked-For-iOS-featured-image-150x150.jpg" loading="lazy" decoding="async" alt="Narrow Front: WW2 Strategy" class="ipaomtk-card-icon liquid-image">
+        <div class="absolute -top-2 -right-2 liquid-platform-icon ios text-white">
+    <svg class="w-3 h-3" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M18.71,19.5C17.88,20.74 17,21.95 15.66,21.97C14.32,22 13.89,21.18 12.37,21.18C10.84,21.18 10.37,21.95 9.1,22C7.79,22.05 6.8,20.68 5.96,19.47C4.25,17 2.94,12.45 4.7,9.39C5.57,7.87 7.13,6.91 8.82,6.88C10.1,6.86 11.32,7.75 12.11,7.75C12.89,7.75 14.37,6.68 15.92,6.84C16.57,6.87 18.39,7.1 19.56,8.82C19.47,8.88 17.39,10.1 17.41,12.63C17.44,15.65 20.06,16.66 20.09,16.67C20.06,16.74 19.67,18.11 18.71,19.5ZM13,3.5C13.73,2.67 14.94,2.04 15.94,2C16.07,3.17 15.6,4.35 14.9,5.19C14.21,6.04 13.07,6.7 11.95,6.61C11.8,5.46 12.36,4.26 13,3.5Z"></path>
+    </svg>
+</div>                    <div class="absolute -bottom-2 left-1/2 transform -translate-x-1/2">
+                <span class="liquid-mod-badge">MOD</span>
+            </div>
+                </div>
+    </div>
+    <div class="ipaomtk-card-body">
+        <div class="ipaomtk-card-topline">
+            <h3 class="ipaomtk-card-title">
+                Narrow Front: WW2 Strategy            </h3>
+                            <span class="ipaomtk-status-pill">Updated</span>
+                    </div>
+        <div class="ipaomtk-card-meta">
+            <span>Simulation</span>
+            <span>756.14 MB</span>
+        </div>
+        <div class="ipaomtk-card-detail">
+            <span>v1.3.0</span>
+                            <span class="ipaomtk-card-mod">
+                    <svg viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                        <path d="M10 2a6 6 0 00-6 6v2.15c0 .41-.17.81-.47 1.1L2.5 12.3A1 1 0 003.2 14h13.6a1 1 0 00.7-1.7l-1.03-1.05a1.56 1.56 0 01-.47-1.1V8a6 6 0 00-6-6zm0 16a3 3 0 002.83-2H7.17A3 3 0 0010 18z"></path>
+                    </svg>
+                    Unlimited Coins                </span>
+                    </div>
+    </div>
+</a>
+<a href="https://ipaomtk.com/bug-squad-tactics/" class="ipaomtk-app-card group">
+    <div class="ipaomtk-card-media">
+        <div class="ipaomtk-card-icon-wrap">
+        <img src="https://ipaomtk.com/wp-content/uploads/2026/10/Bug-Squad-Tactics-IPA-v1.2.1-Unlocked-For-iOS-featured-image-150x150.jpg" loading="lazy" decoding="async" alt="Bug Squad Tactics" class="ipaomtk-card-icon liquid-image">
+        <div class="absolute -top-2 -right-2 liquid-platform-icon ios text-white">
+    <svg class="w-3 h-3" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M18.71,19.5C17.88,20.74 17,21.95 15.66,21.97C14.32,22 13.89,21.18 12.37,21.18C10.84,21.18 10.37,21.95 9.1,22C7.79,22.05 6.8,20.68 5.96,19.47C4.25,17 2.94,12.45 4.7,9.39C5.57,7.87 7.13,6.91 8.82,6.88C10.1,6.86 11.32,7.75 12.11,7.75C12.89,7.75 14.37,6.68 15.92,6.84C16.57,6.87 18.39,7.1 19.56,8.82C19.47,8.88 17.39,10.1 17.41,12.63C17.44,15.65 20.06,16.66 20.09,16.67C20.06,16.74 19.67,18.11 18.71,19.5ZM13,3.5C13.73,2.67 14.94,2.04 15.94,2C16.07,3.17 15.6,4.35 14.9,5.19C14.21,6.04 13.07,6.7 11.95,6.61C11.8,5.46 12.36,4.26 13,3.5Z"></path>
+    </svg>
+</div>                    <div class="absolute -bottom-2 left-1/2 transform -translate-x-1/2">
+                <span class="liquid-mod-badge">MOD</span>
+            </div>
+                </div>
+    </div>
+    <div class="ipaomtk-card-body">
+        <div class="ipaomtk-card-topline">
+            <h3 class="ipaomtk-card-title">
+                Bug Squad Tactics            </h3>
+                            <span class="ipaomtk-status-pill">Updated</span>
+                    </div>
+        <div class="ipaomtk-card-meta">
+            <span>Puzzle</span>
+            <span>445.49 MB</span>
+        </div>
+        <div class="ipaomtk-card-detail">
+            <span>v1.3.1</span>
+                            <span class="ipaomtk-card-mod">
+                    <svg viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                        <path d="M10 2a6 6 0 00-6 6v2.15c0 .41-.17.81-.47 1.1L2.5 12.3A1 1 0 003.2 14h13.6a1 1 0 00.7-1.7l-1.03-1.05a1.56 1.56 0 01-.47-1.1V8a6 6 0 00-6-6zm0 16a3 3 0 002.83-2H7.17A3 3 0 0010 18z"></path>
+                    </svg>
+                    Currency Multiplier                </span>
+                    </div>
+    </div>
+</a>
+<a href="https://ipaomtk.com/stones-and-bones/" class="ipaomtk-app-card group">
+    <div class="ipaomtk-card-media">
+        <div class="ipaomtk-card-icon-wrap">
+        <img src="https://ipaomtk.com/wp-content/uploads/2026/10/Stones-and-Bones-IPA-v1.0.0-Unlocked-For-iOS-featured-image-150x150.jpg" loading="lazy" decoding="async" alt="Stones and Bones" class="ipaomtk-card-icon liquid-image">
+        <div class="absolute -top-2 -right-2 liquid-platform-icon ios text-white">
+    <svg class="w-3 h-3" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M18.71,19.5C17.88,20.74 17,21.95 15.66,21.97C14.32,22 13.89,21.18 12.37,21.18C10.84,21.18 10.37,21.95 9.1,22C7.79,22.05 6.8,20.68 5.96,19.47C4.25,17 2.94,12.45 4.7,9.39C5.57,7.87 7.13,6.91 8.82,6.88C10.1,6.86 11.32,7.75 12.11,7.75C12.89,7.75 14.37,6.68 15.92,6.84C16.57,6.87 18.39,7.1 19.56,8.82C19.47,8.88 17.39,10.1 17.41,12.63C17.44,15.65 20.06,16.66 20.09,16.67C20.06,16.74 19.67,18.11 18.71,19.5ZM13,3.5C13.73,2.67 14.94,2.04 15.94,2C16.07,3.17 15.6,4.35 14.9,5.19C14.21,6.04 13.07,6.7 11.95,6.61C11.8,5.46 12.36,4.26 13,3.5Z"></path>
+    </svg>
+</div>                    <div class="absolute -bottom-2 left-1/2 transform -translate-x-1/2">
+                <span class="liquid-mod-badge">MOD</span>
+            </div>
+                </div>
+    </div>
+    <div class="ipaomtk-card-body">
+        <div class="ipaomtk-card-topline">
+            <h3 class="ipaomtk-card-title">
+                Stones and Bones            </h3>
+                            <span class="ipaomtk-status-pill">Updated</span>
+                    </div>
+        <div class="ipaomtk-card-meta">
+            <span>Adventure</span>
+            <span>444.84 MB</span>
+        </div>
+        <div class="ipaomtk-card-detail">
+            <span>v1.0.1</span>
+                            <span class="ipaomtk-card-mod">
+                    <svg viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                        <path d="M10 2a6 6 0 00-6 6v2.15c0 .41-.17.81-.47 1.1L2.5 12.3A1 1 0 003.2 14h13.6a1 1 0 00.7-1.7l-1.03-1.05a1.56 1.56 0 01-.47-1.1V8a6 6 0 00-6-6zm0 16a3 3 0 002.83-2H7.17A3 3 0 0010 18z"></path>
+                    </svg>
+                    ADS NO                </span>
+                    </div>
+    </div>
+</a>
+<a href="https://ipaomtk.com/block-defenders/" class="ipaomtk-app-card group">
+    <div class="ipaomtk-card-media">
+        <div class="ipaomtk-card-icon-wrap">
+        <img src="https://ipaomtk.com/wp-content/uploads/2026/10/Block-Defenders-IPA-v1.0.1-Unlocked-For-iOS-featured-image-150x150.jpg" loading="lazy" decoding="async" alt="Block Defenders" class="ipaomtk-card-icon liquid-image">
+        <div class="absolute -top-2 -right-2 liquid-platform-icon ios text-white">
+    <svg class="w-3 h-3" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M18.71,19.5C17.88,20.74 17,21.95 15.66,21.97C14.32,22 13.89,21.18 12.37,21.18C10.84,21.18 10.37,21.95 9.1,22C7.79,22.05 6.8,20.68 5.96,19.47C4.25,17 2.94,12.45 4.7,9.39C5.57,7.87 7.13,6.91 8.82,6.88C10.1,6.86 11.32,7.75 12.11,7.75C12.89,7.75 14.37,6.68 15.92,6.84C16.57,6.87 18.39,7.1 19.56,8.82C19.47,8.88 17.39,10.1 17.41,12.63C17.44,15.65 20.06,16.66 20.09,16.67C20.06,16.74 19.67,18.11 18.71,19.5ZM13,3.5C13.73,2.67 14.94,2.04 15.94,2C16.07,3.17 15.6,4.35 14.9,5.19C14.21,6.04 13.07,6.7 11.95,6.61C11.8,5.46 12.36,4.26 13,3.5Z"></path>
+    </svg>
+</div>                    <div class="absolute -bottom-2 left-1/2 transform -translate-x-1/2">
+                <span class="liquid-mod-badge">MOD</span>
+            </div>
+                </div>
+    </div>
+    <div class="ipaomtk-card-body">
+        <div class="ipaomtk-card-topline">
+            <h3 class="ipaomtk-card-title">
+                Block Defenders            </h3>
+                            <span class="ipaomtk-status-pill">Updated</span>
+                    </div>
+        <div class="ipaomtk-card-meta">
+            <span>Casual</span>
+            <span>221.12 MB</span>
+        </div>
+        <div class="ipaomtk-card-detail">
+            <span>v1.0.1</span>
+                            <span class="ipaomtk-card-mod">
+                    <svg viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                        <path d="M10 2a6 6 0 00-6 6v2.15c0 .41-.17.81-.47 1.1L2.5 12.3A1 1 0 003.2 14h13.6a1 1 0 00.7-1.7l-1.03-1.05a1.56 1.56 0 01-.47-1.1V8a6 6 0 00-6-6zm0 16a3 3 0 002.83-2H7.17A3 3 0 0010 18z"></path>
+                    </svg>
+                    ADS NO                </span>
+                    </div>
+    </div>
+</a>
+<a href="https://ipaomtk.com/9-kings/" class="ipaomtk-app-card group">
+    <div class="ipaomtk-card-media">
+        <div class="ipaomtk-card-icon-wrap">
+        <img src="https://ipaomtk.com/wp-content/uploads/2026/10/9-Kings-IPA-v1.0.3-Unlocked-For-iOS-featured-image-150x150.jpg" loading="lazy" decoding="async" alt="9 Kings" class="ipaomtk-card-icon liquid-image">
+        <div class="absolute -top-2 -right-2 liquid-platform-icon ios text-white">
+    <svg class="w-3 h-3" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M18.71,19.5C17.88,20.74 17,21.95 15.66,21.97C14.32,22 13.89,21.18 12.37,21.18C10.84,21.18 10.37,21.95 9.1,22C7.79,22.05 6.8,20.68 5.96,19.47C4.25,17 2.94,12.45 4.7,9.39C5.57,7.87 7.13,6.91 8.82,6.88C10.1,6.86 11.32,7.75 12.11,7.75C12.89,7.75 14.37,6.68 15.92,6.84C16.57,6.87 18.39,7.1 19.56,8.82C19.47,8.88 17.39,10.1 17.41,12.63C17.44,15.65 20.06,16.66 20.09,16.67C20.06,16.74 19.67,18.11 18.71,19.5ZM13,3.5C13.73,2.67 14.94,2.04 15.94,2C16.07,3.17 15.6,4.35 14.9,5.19C14.21,6.04 13.07,6.7 11.95,6.61C11.8,5.46 12.36,4.26 13,3.5Z"></path>
+    </svg>
+</div>                    <div class="absolute -bottom-2 left-1/2 transform -translate-x-1/2">
+                <span class="liquid-mod-badge">MOD</span>
+            </div>
+                </div>
+    </div>
+    <div class="ipaomtk-card-body">
+        <div class="ipaomtk-card-topline">
+            <h3 class="ipaomtk-card-title">
+                9 Kings            </h3>
+                            <span class="ipaomtk-status-pill">Updated</span>
+                    </div>
+        <div class="ipaomtk-card-meta">
+            <span>Card</span>
+            <span>454.03 MB</span>
+        </div>
+        <div class="ipaomtk-card-detail">
+            <span>v1.0.4</span>
+                            <span class="ipaomtk-card-mod">
+                    <svg viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                        <path d="M10 2a6 6 0 00-6 6v2.15c0 .41-.17.81-.47 1.1L2.5 12.3A1 1 0 003.2 14h13.6a1 1 0 00.7-1.7l-1.03-1.05a1.56 1.56 0 01-.47-1.1V8a6 6 0 00-6-6zm0 16a3 3 0 002.83-2H7.17A3 3 0 0010 18z"></path>
+                    </svg>
+                    Unlock Full Game                </span>
+                    </div>
+    </div>
+</a>
+<a href="https://ipaomtk.com/little-kitty-big-city/" class="ipaomtk-app-card group">
+    <div class="ipaomtk-card-media">
+        <div class="ipaomtk-card-icon-wrap">
+        <img src="https://ipaomtk.com/wp-content/uploads/2026/10/Little-Kitty-Big-City-IPA-v1.0.3-Unlocked-For-iOS-featured-image-150x150.jpg" loading="lazy" decoding="async" alt="Little Kitty, Big City" class="ipaomtk-card-icon liquid-image">
+        <div class="absolute -top-2 -right-2 liquid-platform-icon ios text-white">
+    <svg class="w-3 h-3" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M18.71,19.5C17.88,20.74 17,21.95 15.66,21.97C14.32,22 13.89,21.18 12.37,21.18C10.84,21.18 10.37,21.95 9.1,22C7.79,22.05 6.8,20.68 5.96,19.47C4.25,17 2.94,12.45 4.7,9.39C5.57,7.87 7.13,6.91 8.82,6.88C10.1,6.86 11.32,7.75 12.11,7.75C12.89,7.75 14.37,6.68 15.92,6.84C16.57,6.87 18.39,7.1 19.56,8.82C19.47,8.88 17.39,10.1 17.41,12.63C17.44,15.65 20.06,16.66 20.09,16.67C20.06,16.74 19.67,18.11 18.71,19.5ZM13,3.5C13.73,2.67 14.94,2.04 15.94,2C16.07,3.17 15.6,4.35 14.9,5.19C14.21,6.04 13.07,6.7 11.95,6.61C11.8,5.46 12.36,4.26 13,3.5Z"></path>
+    </svg>
+</div>                    <div class="absolute -bottom-2 left-1/2 transform -translate-x-1/2">
+                <span class="liquid-mod-badge">MOD</span>
+            </div>
+                </div>
+    </div>
+    <div class="ipaomtk-card-body">
+        <div class="ipaomtk-card-topline">
+            <h3 class="ipaomtk-card-title">
+                Little Kitty, Big City            </h3>
+                            <span class="ipaomtk-status-pill">Updated</span>
+                    </div>
+        <div class="ipaomtk-card-meta">
+            <span>Casual</span>
+            <span>1194.09 MB</span>
+        </div>
+        <div class="ipaomtk-card-detail">
+            <span>v1.0.3</span>
+                            <span class="ipaomtk-card-mod">
+                    <svg viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                        <path d="M10 2a6 6 0 00-6 6v2.15c0 .41-.17.81-.47 1.1L2.5 12.3A1 1 0 003.2 14h13.6a1 1 0 00.7-1.7l-1.03-1.05a1.56 1.56 0 01-.47-1.1V8a6 6 0 00-6-6zm0 16a3 3 0 002.83-2H7.17A3 3 0 0010 18z"></path>
+                    </svg>
+                    Full Game Unlocked                </span>
+                    </div>
+    </div>
+</a>
+<a href="https://ipaomtk.com/her-comeback-merge-story/" class="ipaomtk-app-card group">
+    <div class="ipaomtk-card-media">
+        <div class="ipaomtk-card-icon-wrap">
+        <img src="https://ipaomtk.com/wp-content/uploads/2026/10/Her-Comeback-Merge-038-Story-IPA-v1.1.110101749-Unlocked-For-iOS-featured-image-150x150.jpg" loading="lazy" decoding="async" alt="Her Comeback: Merge &amp; Story" class="ipaomtk-card-icon liquid-image">
+        <div class="absolute -top-2 -right-2 liquid-platform-icon ios text-white">
+    <svg class="w-3 h-3" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M18.71,19.5C17.88,20.74 17,21.95 15.66,21.97C14.32,22 13.89,21.18 12.37,21.18C10.84,21.18 10.37,21.95 9.1,22C7.79,22.05 6.8,20.68 5.96,19.47C4.25,17 2.94,12.45 4.7,9.39C5.57,7.87 7.13,6.91 8.82,6.88C10.1,6.86 11.32,7.75 12.11,7.75C12.89,7.75 14.37,6.68 15.92,6.84C16.57,6.87 18.39,7.1 19.56,8.82C19.47,8.88 17.39,10.1 17.41,12.63C17.44,15.65 20.06,16.66 20.09,16.67C20.06,16.74 19.67,18.11 18.71,19.5ZM13,3.5C13.73,2.67 14.94,2.04 15.94,2C16.07,3.17 15.6,4.35 14.9,5.19C14.21,6.04 13.07,6.7 11.95,6.61C11.8,5.46 12.36,4.26 13,3.5Z"></path>
+    </svg>
+</div>                    <div class="absolute -bottom-2 left-1/2 transform -translate-x-1/2">
+                <span class="liquid-mod-badge">MOD</span>
+            </div>
+                </div>
+    </div>
+    <div class="ipaomtk-card-body">
+        <div class="ipaomtk-card-topline">
+            <h3 class="ipaomtk-card-title">
+                Her Comeback: Merge &amp; Story            </h3>
+                            <span class="ipaomtk-status-pill">Updated</span>
+                    </div>
+        <div class="ipaomtk-card-meta">
+            <span>Casual</span>
+            <span>344.62 MB</span>
+        </div>
+        <div class="ipaomtk-card-detail">
+            <span>v1.1.110101749</span>
+                            <span class="ipaomtk-card-mod">
+                    <svg viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                        <path d="M10 2a6 6 0 00-6 6v2.15c0 .41-.17.81-.47 1.1L2.5 12.3A1 1 0 003.2 14h13.6a1 1 0 00.7-1.7l-1.03-1.05a1.56 1.56 0 01-.47-1.1V8a6 6 0 00-6-6zm0 16a3 3 0 002.83-2H7.17A3 3 0 0010 18z"></path>
+                    </svg>
+                    Unlimited Currencies                </span>
+                    </div>
+    </div>
+</a>
+<a href="https://ipaomtk.com/drag-racing-street-car-game/" class="ipaomtk-app-card group">
+    <div class="ipaomtk-card-media">
+        <div class="ipaomtk-card-icon-wrap">
+        <img src="https://ipaomtk.com/wp-content/uploads/2026/10/Drag-Racing-Street-Car-Game-IPA-v5.0.0-Unlocked-For-iOS-featured-image-150x150.jpg" loading="lazy" decoding="async" alt="Drag Racing: Street Car Game" class="ipaomtk-card-icon liquid-image">
+        <div class="absolute -top-2 -right-2 liquid-platform-icon ios text-white">
+    <svg class="w-3 h-3" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M18.71,19.5C17.88,20.74 17,21.95 15.66,21.97C14.32,22 13.89,21.18 12.37,21.18C10.84,21.18 10.37,21.95 9.1,22C7.79,22.05 6.8,20.68 5.96,19.47C4.25,17 2.94,12.45 4.7,9.39C5.57,7.87 7.13,6.91 8.82,6.88C10.1,6.86 11.32,7.75 12.11,7.75C12.89,7.75 14.37,6.68 15.92,6.84C16.57,6.87 18.39,7.1 19.56,8.82C19.47,8.88 17.39,10.1 17.41,12.63C17.44,15.65 20.06,16.66 20.09,16.67C20.06,16.74 19.67,18.11 18.71,19.5ZM13,3.5C13.73,2.67 14.94,2.04 15.94,2C16.07,3.17 15.6,4.35 14.9,5.19C14.21,6.04 13.07,6.7 11.95,6.61C11.8,5.46 12.36,4.26 13,3.5Z"></path>
+    </svg>
+</div>                    <div class="absolute -bottom-2 left-1/2 transform -translate-x-1/2">
+                <span class="liquid-mod-badge">MOD</span>
+            </div>
+                </div>
+    </div>
+    <div class="ipaomtk-card-body">
+        <div class="ipaomtk-card-topline">
+            <h3 class="ipaomtk-card-title">
+                Drag Racing: Street Car Game            </h3>
+                            <span class="ipaomtk-status-pill">Updated</span>
+                    </div>
+        <div class="ipaomtk-card-meta">
+            <span>Entertainment</span>
+            <span>1562.07 MB</span>
+        </div>
+        <div class="ipaomtk-card-detail">
+            <span>v5.0.0</span>
+                            <span class="ipaomtk-card-mod">
+                    <svg viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                        <path d="M10 2a6 6 0 00-6 6v2.15c0 .41-.17.81-.47 1.1L2.5 12.3A1 1 0 003.2 14h13.6a1 1 0 00.7-1.7l-1.03-1.05a1.56 1.56 0 01-.47-1.1V8a6 6 0 00-6-6zm0 16a3 3 0 002.83-2H7.17A3 3 0 0010 18z"></path>
+                    </svg>
+                    Optimal Auto-Shift                </span>
+                    </div>
+    </div>
+</a>
+<a href="https://ipaomtk.com/voidpet-dungeon/" class="ipaomtk-app-card group">
+    <div class="ipaomtk-card-media">
+        <div class="ipaomtk-card-icon-wrap">
+        <img src="https://ipaomtk.com/wp-content/uploads/2026/10/Voidpet-Dungeon-IPA-v5.29.53-Unlocked-For-iOS-featured-image-150x150.jpg" loading="lazy" decoding="async" alt="Voidpet Dungeon" class="ipaomtk-card-icon liquid-image">
+        <div class="absolute -top-2 -right-2 liquid-platform-icon ios text-white">
+    <svg class="w-3 h-3" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M18.71,19.5C17.88,20.74 17,21.95 15.66,21.97C14.32,22 13.89,21.18 12.37,21.18C10.84,21.18 10.37,21.95 9.1,22C7.79,22.05 6.8,20.68 5.96,19.47C4.25,17 2.94,12.45 4.7,9.39C5.57,7.87 7.13,6.91 8.82,6.88C10.1,6.86 11.32,7.75 12.11,7.75C12.89,7.75 14.37,6.68 15.92,6.84C16.57,6.87 18.39,7.1 19.56,8.82C19.47,8.88 17.39,10.1 17.41,12.63C17.44,15.65 20.06,16.66 20.09,16.67C20.06,16.74 19.67,18.11 18.71,19.5ZM13,3.5C13.73,2.67 14.94,2.04 15.94,2C16.07,3.17 15.6,4.35 14.9,5.19C14.21,6.04 13.07,6.7 11.95,6.61C11.8,5.46 12.36,4.26 13,3.5Z"></path>
+    </svg>
+</div>                    <div class="absolute -bottom-2 left-1/2 transform -translate-x-1/2">
+                <span class="liquid-mod-badge">MOD</span>
+            </div>
+                </div>
+    </div>
+    <div class="ipaomtk-card-body">
+        <div class="ipaomtk-card-topline">
+            <h3 class="ipaomtk-card-title">
+                Voidpet Dungeon            </h3>
+                            <span class="ipaomtk-status-pill">Updated</span>
+                    </div>
+        <div class="ipaomtk-card-meta">
+            <span>Roleplaying</span>
+            <span>139.42 MB</span>
+        </div>
+        <div class="ipaomtk-card-detail">
+            <span>v5.29.59</span>
+                            <span class="ipaomtk-card-mod">
+                    <svg viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                        <path d="M10 2a6 6 0 00-6 6v2.15c0 .41-.17.81-.47 1.1L2.5 12.3A1 1 0 003.2 14h13.6a1 1 0 00.7-1.7l-1.03-1.05a1.56 1.56 0 01-.47-1.1V8a6 6 0 00-6-6zm0 16a3 3 0 002.83-2H7.17A3 3 0 0010 18z"></path>
+                    </svg>
+                    Battle Speed Multiplier                </span>
+                    </div>
+    </div>
+</a>
+<a href="https://ipaomtk.com/on-raft/" class="ipaomtk-app-card group">
+    <div class="ipaomtk-card-media">
+        <div class="ipaomtk-card-icon-wrap">
+        <img src="https://ipaomtk.com/wp-content/uploads/2026/10/On-Raft-IPA-v1.0.0-Unlocked-For-iOS-featured-image-150x150.jpg" loading="lazy" decoding="async" alt="On Raft" class="ipaomtk-card-icon liquid-image">
+        <div class="absolute -top-2 -right-2 liquid-platform-icon ios text-white">
+    <svg class="w-3 h-3" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M18.71,19.5C17.88,20.74 17,21.95 15.66,21.97C14.32,22 13.89,21.18 12.37,21.18C10.84,21.18 10.37,21.95 9.1,22C7.79,22.05 6.8,20.68 5.96,19.47C4.25,17 2.94,12.45 4.7,9.39C5.57,7.87 7.13,6.91 8.82,6.88C10.1,6.86 11.32,7.75 12.11,7.75C12.89,7.75 14.37,6.68 15.92,6.84C16.57,6.87 18.39,7.1 19.56,8.82C19.47,8.88 17.39,10.1 17.41,12.63C17.44,15.65 20.06,16.66 20.09,16.67C20.06,16.74 19.67,18.11 18.71,19.5ZM13,3.5C13.73,2.67 14.94,2.04 15.94,2C16.07,3.17 15.6,4.35 14.9,5.19C14.21,6.04 13.07,6.7 11.95,6.61C11.8,5.46 12.36,4.26 13,3.5Z"></path>
+    </svg>
+</div>                    <div class="absolute -bottom-2 left-1/2 transform -translate-x-1/2">
+                <span class="liquid-mod-badge">MOD</span>
+            </div>
+                </div>
+    </div>
+    <div class="ipaomtk-card-body">
+        <div class="ipaomtk-card-topline">
+            <h3 class="ipaomtk-card-title">
+                On Raft            </h3>
+                            <span class="ipaomtk-status-pill">Updated</span>
+                    </div>
+        <div class="ipaomtk-card-meta">
+            <span>Action</span>
+            <span>510.14 MB</span>
+        </div>
+        <div class="ipaomtk-card-detail">
+            <span>v1.0.1</span>
+                            <span class="ipaomtk-card-mod">
+                    <svg viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                        <path d="M10 2a6 6 0 00-6 6v2.15c0 .41-.17.81-.47 1.1L2.5 12.3A1 1 0 003.2 14h13.6a1 1 0 00.7-1.7l-1.03-1.05a1.56 1.56 0 01-.47-1.1V8a6 6 0 00-6-6zm0 16a3 3 0 002.83-2H7.17A3 3 0 0010 18z"></path>
+                    </svg>
+                    ADS NO                </span>
+                    </div>
+    </div>
+</a>
+<a href="https://ipaomtk.com/forge-master-idle-rpg/" class="ipaomtk-app-card group">
+    <div class="ipaomtk-card-media">
+        <div class="ipaomtk-card-icon-wrap">
+        <img src="https://ipaomtk.com/wp-content/uploads/2026/10/Forge-Master-–-Idle-RPG-IPA-v2.10.0-Unlocked-For-iOS-featured-image-150x150.jpg" loading="lazy" decoding="async" alt="Forge Master – Idle RPG" class="ipaomtk-card-icon liquid-image">
+        <div class="absolute -top-2 -right-2 liquid-platform-icon ios text-white">
+    <svg class="w-3 h-3" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M18.71,19.5C17.88,20.74 17,21.95 15.66,21.97C14.32,22 13.89,21.18 12.37,21.18C10.84,21.18 10.37,21.95 9.1,22C7.79,22.05 6.8,20.68 5.96,19.47C4.25,17 2.94,12.45 4.7,9.39C5.57,7.87 7.13,6.91 8.82,6.88C10.1,6.86 11.32,7.75 12.11,7.75C12.89,7.75 14.37,6.68 15.92,6.84C16.57,6.87 18.39,7.1 19.56,8.82C19.47,8.88 17.39,10.1 17.41,12.63C17.44,15.65 20.06,16.66 20.09,16.67C20.06,16.74 19.67,18.11 18.71,19.5ZM13,3.5C13.73,2.67 14.94,2.04 15.94,2C16.07,3.17 15.6,4.35 14.9,5.19C14.21,6.04 13.07,6.7 11.95,6.61C11.8,5.46 12.36,4.26 13,3.5Z"></path>
+    </svg>
+</div>                    <div class="absolute -bottom-2 left-1/2 transform -translate-x-1/2">
+                <span class="liquid-mod-badge">MOD</span>
+            </div>
+                </div>
+    </div>
+    <div class="ipaomtk-card-body">
+        <div class="ipaomtk-card-topline">
+            <h3 class="ipaomtk-card-title">
+                Forge Master – Idle RPG            </h3>
+                            <span class="ipaomtk-status-pill">Updated</span>
+                    </div>
+        <div class="ipaomtk-card-meta">
+            <span>Roleplaying</span>
+            <span>289.4 MB</span>
+        </div>
+        <div class="ipaomtk-card-detail">
+            <span>v2.10.0</span>
+                            <span class="ipaomtk-card-mod">
+                    <svg viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                        <path d="M10 2a6 6 0 00-6 6v2.15c0 .41-.17.81-.47 1.1L2.5 12.3A1 1 0 003.2 14h13.6a1 1 0 00.7-1.7l-1.03-1.05a1.56 1.56 0 01-.47-1.1V8a6 6 0 00-6-6zm0 16a3 3 0 002.83-2H7.17A3 3 0 0010 18z"></path>
+                    </svg>
+                    xDmg                </span>
+                    </div>
+    </div>
+</a>
+                    </div>
+        <div class="flex justify-center gap-2"><button class="page-btn active" disabled="">1</button><a href="https://ipaomtk.com/games/page/2/" class="page-btn">2</a><a href="https://ipaomtk.com/games/page/3/" class="page-btn">3</a><span class="flex items-end px-2 text-gray-400 dark:text-gray-500 font-bold tracking-widest">...</span><a href="https://ipaomtk.com/games/page/258/" class="page-btn">258</a><a href="https://ipaomtk.com/games/page/2/" class="page-btn group" aria-label="Next Page"><svg class="w-4 h-4 transform group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a></div>    </section>

@@ -1,0 +1,4 @@
+import { NextResponse } from 'next/server';
+import { makeSession, sessionCookieName, isAdminRequest } from '@/lib/auth';
+export async function GET() { return NextResponse.json({ authenticated: isAdminRequest() }); }
+export async function POST(req:Request) { const {username,password}=await req.json(); if(!process.env.ADMIN_PASSWORD||!process.env.COOKIE_SECRET||process.env.COOKIE_SECRET.length<32) return NextResponse.json({error:'请先配置 ADMIN_PASSWORD 与至少 32 位 COOKIE_SECRET'},{status:500}); if(username!== (process.env.ADMIN_USERNAME||'admin') || password!==process.env.ADMIN_PASSWORD) return NextResponse.json({error:'用户名或密码错误'},{status:401}); const r=NextResponse.json({ok:true}); r.cookies.set(sessionCookieName,makeSession(),{httpOnly:true,secure:process.env.NODE_ENV==='production',sameSite:'lax',path:'/',maxAge:7*86400}); return r; }
